@@ -29,8 +29,8 @@ POST http://localhost:3030/notes
 Content-Type: application/json
 
 {
-  "title": "First Note",
-  "content": "This is Alice's first note.",
+  "title": "First Note555",
+  "content": "This is Alice's first note HIHI.",
   "tags": ["personal", "draft"],
   "is_pinned": true,
   "user_id": 1
